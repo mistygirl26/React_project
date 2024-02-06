@@ -1,0 +1,21 @@
+.grind{
+    width: 103px;
+
+}
+.content_space{
+    display: flex;
+    align-items: center;
+}
+.real{
+    margin: 13px;
+}
+.actio{
+    flex-grow: 0;
+}
+.act_dc{
+    margin-bottom: 15px;
+}
+a{
+    text-decoration: none !important;
+    color: black;
+}

@@ -1,0 +1,26 @@
+.wallet_main{
+   
+    margin: 20px 0 20px 0;
+}
+.pic_siz{
+    width: 143px;
+}
+.wallet_main:hover{
+    color: rgb(8, 8, 8);
+    box-shadow:11px 18px 11px 0px rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)  ;
+    /* transform: scale(1.07); */
+    border: none;
+}
+@media screen and (min-width: 1195px) {
+    .wallet_main 
+    {
+      height: 314px;
+    }
+  }
+
+@media screen and (min-width: 992px) {
+    .wallet_main 
+    {
+      height: 314px;
+    }
+  }  

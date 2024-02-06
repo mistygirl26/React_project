@@ -1,0 +1,28 @@
+.bit_bdy{
+    text-align: center !important;
+}
+.bit_pic{
+    height: 100px;
+}
+.bit_box{
+    display: flex;
+}
+.bit_box:hover{
+    color: rgb(8, 8, 8);
+    box-shadow:11px 18px 11px 0px rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)  ;
+    /* transform: scale(1.07); */
+    border: none;
+}
+@media screen and (min-width: 1384px) {
+    .bit_box 
+    {
+      height: 250px;
+    }
+  }  
+
+  @media screen and (min-width: 1202px) {
+    .bit_box 
+    {
+      height: 250px;
+    }
+  }    

@@ -1,0 +1,31 @@
+
+.app_txt{
+    font-size: larger;
+    font-weight: 700;
+}
+.subtrad{
+    margin: 24px 0 0 0;
+}
+.change{
+    font-size: 30px;
+    color: rgb(8, 8, 8);
+    margin:0 10px 0 0;
+    background-color: rgb(246, 241, 241);
+    padding: 10px 20px 10px 20px;
+    border-radius: 10px;   
+}
+.appicn{
+    margin:15px 0px 0 0;
+}
+.code{
+    max-width: 112px;
+}
+.code_txt{
+    display: flex;
+}
+.trade_section{
+    margin: 50px 0px 50px 0px;
+}
+.tradepic{
+    height: 370px;
+}

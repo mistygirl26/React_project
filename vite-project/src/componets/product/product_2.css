@@ -1,0 +1,22 @@
+.sub_bit{
+    background-color: rgb(247, 246, 246);
+    border-radius: 13px;
+}
+.cpy_btn{
+    width: 117px;
+}
+.pro_duct{
+    padding-bottom: 20px;
+}
+@media screen and (min-width: 767px) {
+    .sub_bit 
+    {
+      margin-bottom: 20px;
+    }
+  }  
+  @media screen and (min-width: 367px) {
+    .sub_bit 
+    {
+      margin-bottom: 20px;
+    }
+  }  

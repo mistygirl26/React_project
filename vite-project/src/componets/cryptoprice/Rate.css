@@ -1,0 +1,22 @@
+.min_txt{
+    display: flex;
+}
+.left_txt{
+    padding-right: 56px;
+}
+.blk_btn{
+    padding-left: 34px;
+    padding-right: 34px;
+}
+.price{
+    width: 60px;
+    height: 60px;
+    background-color: rgb(236, 233, 233);
+    
+}
+.pricebox:hover{
+    color: rgb(8, 8, 8);
+    box-shadow:11px 18px 11px 0px rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)  ;
+    /* transform: scale(1.07); */
+    border: none;
+}
