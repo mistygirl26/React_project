@@ -12,7 +12,7 @@ import ContactUsPage from './componets/ContactUsPage';
 import { useEffect, useState } from 'react';
 import axios from 'axios';
 let isMounted;
-
+ 
 function App() {
   const [data,setData]= useState(['']);
   isMounted= true
